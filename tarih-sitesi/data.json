@@ -1,0 +1,492 @@
+[
+  {
+    "isim": "Sümerler",
+    "kurulus": "-4500",
+    "yikilis": "-1900"
+  },
+  {
+    "isim": "Akad İmparatorluğu",
+    "kurulus": "-2334",
+    "yikilis": "-2154"
+  },
+  {
+    "isim": "Babil ",
+    "kurulus": "-1894",
+    "yikilis": "-539"
+  },
+  {
+    "isim": "Asur İmparatorluğu",
+    "kurulus": "-2500",
+    "yikilis": "-605"
+  },
+  {
+    "isim": "Hititler",
+    "kurulus": "-1600",
+    "yikilis": "-1190"
+  },
+  {
+    "isim": "Urartu",
+    "kurulus": "-860",
+    "yikilis": "-590"
+  },
+  {
+    "isim": "Frigya",
+    "kurulus": "-1200",
+    "yikilis": "-700"
+  },
+  {
+    "isim": "Lidya",
+    "kurulus": "-687",
+    "yikilis": "-546"
+  },
+  {
+    "isim": "Antik Mısır",
+    "kurulus": "-3100",
+    "yikilis": "-30"
+  },
+  {
+    "isim": "Fenikeliler",
+    "kurulus": "-1500",
+    "yikilis": "146"
+  },
+  {
+    "isim": "Pers (Ahameniş) İmparatorluğu",
+    "kurulus": "-550",
+    "yikilis": "-330"
+  },
+  {
+    "isim": "Makedonya Krallığı",
+    "kurulus": "-808",
+    "yikilis": "-146"
+  },
+  {
+    "isim": "Büyük İskender İmparatorluğu",
+    "kurulus": "-336",
+    "yikilis": "-323"
+  },
+  {
+    "isim": "Seleukos İmparatorluğu",
+    "kurulus": "-312",
+    "yikilis": "-64"
+  },
+  {
+    "isim": "Part İmparatorluğu",
+    "kurulus": "-247",
+    "yikilis": "224"
+  },
+  {
+    "isim": "Sasani İmparatorluğu",
+    "kurulus": "224",
+    "yikilis": "651"
+  },
+  {
+    "isim": "Roma Krallığı",
+    "kurulus": "-753",
+    "yikilis": "-509"
+  },
+  {
+    "isim": "Roma Cumhuriyeti",
+    "kurulus": "-509",
+    "yikilis": "-27"
+  },
+  {
+    "isim": "Roma İmparatorluğu",
+    "kurulus": "-27",
+    "yikilis": "476"
+  },
+  {
+    "isim": "Doğu Roma (Bizans)",
+    "kurulus": "330",
+    "yikilis": "1453"
+  },
+  {
+    "isim": "Qin Hanedanı",
+    "kurulus": "-221",
+    "yikilis": "-206"
+  },
+  {
+    "isim": "Han Hanedanı",
+    "kurulus": "-206",
+    "yikilis": "220"
+  },
+  {
+    "isim": "Tang Hanedanı",
+    "kurulus": "618",
+    "yikilis": "907"
+  },
+  {
+    "isim": "Song Hanedanı",
+    "kurulus": "960",
+    "yikilis": "1279"
+  },
+  {
+    "isim": "Yuan Hanedanı",
+    "kurulus": "1271",
+    "yikilis": "1368"
+  },
+  {
+    "isim": "Ming Hanedanı",
+    "kurulus": "1368",
+    "yikilis": "1644"
+  },
+  {
+    "isim": "Qing Hanedanı",
+    "kurulus": "1644",
+    "yikilis": "1912"
+  },
+  {
+    "isim": "Japon Yamato Devleti",
+    "kurulus": "250",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Goryeo",
+    "kurulus": "918",
+    "yikilis": "1392"
+  },
+  {
+    "isim": "Joseon",
+    "kurulus": "1392",
+    "yikilis": "1897"
+  },
+  {
+    "isim": "Büyük Hun İmparatorluğu",
+    "kurulus": "-220",
+    "yikilis": "216"
+  },
+  {
+    "isim": "Avrupa Hunları",
+    "kurulus": "370",
+    "yikilis": "469"
+  },
+  {
+    "isim": "Göktürk Kağanlığı",
+    "kurulus": "552",
+    "yikilis": "744"
+  },
+  {
+    "isim": "Uygur Kağanlığı",
+    "kurulus": "744",
+    "yikilis": "840"
+  },
+  {
+    "isim": "Karahanlılar",
+    "kurulus": "840",
+    "yikilis": "1212"
+  },
+  {
+    "isim": "Gazneliler",
+    "kurulus": "963",
+    "yikilis": "1186"
+  },
+  {
+    "isim": "Büyük Selçuklu",
+    "kurulus": "1037",
+    "yikilis": "1157"
+  },
+  {
+    "isim": "Anadolu Selçuklu",
+    "kurulus": "1077",
+    "yikilis": "1308"
+  },
+  {
+    "isim": "Harzemşahlar",
+    "kurulus": "1077",
+    "yikilis": "1231"
+  },
+  {
+    "isim": "Timur İmparatorluğu",
+    "kurulus": "1370",
+    "yikilis": "1507"
+  },
+  {
+    "isim": "Dört Halife Dönemi",
+    "kurulus": "632",
+    "yikilis": "661"
+  },
+  {
+    "isim": "Emeviler",
+    "kurulus": "661",
+    "yikilis": "750"
+  },
+  {
+    "isim": "Abbasiler",
+    "kurulus": "750",
+    "yikilis": "1258"
+  },
+  {
+    "isim": "Endülüs Emevileri",
+    "kurulus": "756",
+    "yikilis": "1031"
+  },
+  {
+    "isim": "Fatımiler",
+    "kurulus": "909",
+    "yikilis": "1171"
+  },
+  {
+    "isim": "Frank Krallığı",
+    "kurulus": "481",
+    "yikilis": "843"
+  },
+  {
+    "isim": "Kutsal Roma Germen İmparatorluğu",
+    "kurulus": "962",
+    "yikilis": "1806"
+  },
+  {
+    "isim": "İngiltere Krallığı",
+    "kurulus": "927",
+    "yikilis": "1707"
+  },
+  {
+    "isim": "Fransa Krallığı",
+    "kurulus": "843",
+    "yikilis": "1792"
+  },
+  {
+    "isim": "Moğol İmparatorluğu",
+    "kurulus": "1206",
+    "yikilis": "1368"
+  },
+  {
+    "isim": "Altın Orda Devleti",
+    "kurulus": "1242",
+    "yikilis": "1502"
+  },
+  {
+    "isim": "İlhanlılar",
+    "kurulus": "1256",
+    "yikilis": "1335"
+  },
+  {
+    "isim": "Babür İmparatorluğu",
+    "kurulus": "1526",
+    "yikilis": "1857"
+  },
+  {
+    "isim": "Safeviler",
+    "kurulus": "1501",
+    "yikilis": "1736"
+  },
+  {
+    "isim": "Osmanlı Devleti",
+    "kurulus": "1299",
+    "yikilis": "1922"
+  },
+  {
+    "isim": "Memlükler",
+    "kurulus": "1250",
+    "yikilis": "1517"
+  },
+  {
+    "isim": "Akkoyunlular",
+    "kurulus": "1378",
+    "yikilis": "1501"
+  },
+  {
+    "isim": "Karakoyunlular",
+    "kurulus": "1375",
+    "yikilis": "1468"
+  },
+  {
+    "isim": "Eyyubiler",
+    "kurulus": "1171",
+    "yikilis": "1250"
+  },
+  {
+    "isim": "Olmekler",
+    "kurulus": "-1400",
+    "yikilis": "-400"
+  },
+  {
+    "isim": "Maya",
+    "kurulus": "-2000",
+    "yikilis": "1697"
+  },
+  {
+    "isim": "Aztek",
+    "kurulus": "1325",
+    "yikilis": "1521"
+  },
+  {
+    "isim": "İnka",
+    "kurulus": "1438",
+    "yikilis": "1533"
+  },
+  {
+    "isim": "Kartaca",
+    "kurulus": "-814",
+    "yikilis": "-146"
+  },
+  {
+    "isim": "Aksum Krallığı",
+    "kurulus": "100",
+    "yikilis": "940"
+  },
+  {
+    "isim": "Mali İmparatorluğu",
+    "kurulus": "1235",
+    "yikilis": "1600"
+  },
+  {
+    "isim": "Songhai İmparatorluğu",
+    "kurulus": "1464",
+    "yikilis": "1591"
+  },
+  {
+    "isim": "Zulu Krallığı",
+    "kurulus": "1816",
+    "yikilis": "1897"
+  },
+  {
+    "isim": "İspanyol İmparatorluğu",
+    "kurulus": "1492",
+    "yikilis": "1898"
+  },
+  {
+    "isim": "Portekiz İmparatorluğu",
+    "kurulus": "1415",
+    "yikilis": "1999"
+  },
+  {
+    "isim": "Hollanda İmparatorluğu",
+    "kurulus": "1581",
+    "yikilis": "1975"
+  },
+  {
+    "isim": "Britanya İmparatorluğu",
+    "kurulus": "1583",
+    "yikilis": "1997"
+  },
+  {
+    "isim": "Avusturya-Macaristan",
+    "kurulus": "1867",
+    "yikilis": "1918"
+  },
+  {
+    "isim": "Prusya",
+    "kurulus": "1525",
+    "yikilis": "1918"
+  },
+  {
+    "isim": "Alman İmparatorluğu",
+    "kurulus": "1871",
+    "yikilis": "1918"
+  },
+  {
+    "isim": "Sovyetler Birliği",
+    "kurulus": "1922",
+    "yikilis": "1991"
+  },
+  {
+    "isim": "Yugoslavya",
+    "kurulus": "1918",
+    "yikilis": "2003"
+  },
+  {
+    "isim": "Çekoslovakya",
+    "kurulus": "1918",
+    "yikilis": "1992"
+  },
+  {
+    "isim": "Türkiye Cumhuriyeti",
+    "kurulus": "1923",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "ABD",
+    "kurulus": "1776",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Fransa Cumhuriyeti",
+    "kurulus": "1792",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Almanya",
+    "kurulus": "1990",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "İtalya",
+    "kurulus": "1861",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Suudi Arabistan",
+    "kurulus": "1932",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "İran (modern)",
+    "kurulus": "1925",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Irak",
+    "kurulus": "1932",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "İsrail",
+    "kurulus": "1948",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Birleşik Arap Emirlikleri",
+    "kurulus": "1971",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Hindistan",
+    "kurulus": "1947",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Pakistan",
+    "kurulus": "1947",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Endonezya",
+    "kurulus": "1945",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Vietnam",
+    "kurulus": "1976",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Güney Kore",
+    "kurulus": "1948",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Mısır (modern)",
+    "kurulus": "1953",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Nijerya",
+    "kurulus": "1960",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Güney Afrika",
+    "kurulus": "1910",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Kenya",
+    "kurulus": "1963",
+    "yikilis": "devam"
+  },
+  {
+    "isim": "Etiyopya (modern)",
+    "kurulus": "1941",
+    "yikilis": "devam"
+  }
+]

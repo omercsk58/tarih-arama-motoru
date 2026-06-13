@@ -1,0 +1,132 @@
+body {
+    background: linear-gradient(to right, #a92e02, #ff8903f2, lab(35.26% 45.32 47.38));
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial;
+}
+
+input {
+    padding: 10px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    background: lab(79.11% 14.55 81.74);
+    cursor: pointer;
+}
+#sonuc {
+    margin-top: 30px;
+}
+#timeline-container {
+    margin-top: 50px;
+    padding: 0px;
+    overflow-x: auto;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+#oneriler {
+    margin-top: 50px;
+}
+
+.oneri-kart {
+    background: rgba(255,255,255,0.1);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#timeline {
+    position: relative;
+    width: 30000px;
+    min-height: 500px;
+}
+.timeline-satir {
+    position: relative;
+    width: 30000px;
+    height: 45px;
+}
+
+.devlet-isim {
+
+    position: absolute;
+
+    left: 0;
+
+    width: 200px;
+
+    font-weight: bold;
+
+    text-align: right;
+
+    padding-right: 10px;
+}
+.devlet-cizgi {
+    position: absolute;
+    top: 10px;
+    height: 20px;
+    border-radius: 20px;
+      z-index: 2;
+}
+#yil-cetveli {
+    position: relative;
+    height: 50px;
+    width: 30000px;
+    color: gold;
+    font-weight: bold;
+}
+.yil {
+
+    position: absolute;
+
+    top: 0;
+}
+.oneri-kart:hover {
+
+    transform: scale(1.05);
+
+    transition: 0.3s;
+}
+h1 {
+
+    font-size: 40px;
+
+    margin-top: 30px;
+
+    color: gold;
+}
+.timeline-yazi {
+    position: absolute;
+    top: 7px;
+    font-size: 14px;
+    white-space: nowrap;
+    z-index: 3;
+}
+
+.devlet-cizgi {
+    position: absolute;
+    top: 10px;
+    height: 20px;
+    border-radius: 20px;
+    z-index: 1;
+}
+.yil {
+    position: absolute;
+    top: 0;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.yil-cizgisi {
+    position: absolute;
+    top: 25px;
+    left: 0;
+
+    width: 1px;
+    height: 5000px;
+
+    background: rgba(255,255,255,0.2);
+}
